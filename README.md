@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">New Era University<br>Bachelor of Science in Information Technology <br>2024 - Present</p>
+<p align="left">
+  <a href="https://neu.edu.ph/main/" title="New Era University">New Era University</a><br>
+  Bachelor of Science in Information Technology<br>
+  2024 - Present
+</p>
 
 ###
 
