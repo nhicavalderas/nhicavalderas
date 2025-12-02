@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m a 19-year-old IT student pursuing a Bachelor of Science in Information Technology. I’m eager to learn, take on challenges, and develop skills in programming, databases, networking, and web development.</p>
+<p align="left">Currently an IT student pursuing a Bachelor of Science in Information Technology. I’m eager to learn, take on challenges, and develop skills in programming, databases, networking, and web development.</p>
 
 ###
 
