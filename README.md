@@ -32,7 +32,7 @@
   </a> 
 </p>
 <p align="left">
-  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0B516B5B1492D6ADADF7BB256C924BB8B92CE40620CED94BBDEF352EB63090B8" title="Become An OCI Foundations Associate (2025)">
+  <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=920C4F7AE15296D16E1356B329D58F5772979F80E1AE0074FCC3D939EC131468" title="Become An OCI Foundations Associate (2025)">
     Become An OCI Foundations Associate (2025)
   </a>
 </p>
