@@ -36,6 +36,11 @@
     Become An OCI Foundations Associate (2025)
   </a>
 </p>
+<p align="left">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=47305DAF59F27150E2A929F0F3460468DD2DBD303300928910551DE179CFC059" title="Become an Oracle Data Platform Foundations Associate">
+    Become an Oracle Data Platform Foundations Associate
+  </a>
+</p>
 
 <p align="left">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0B516B5B1492D6ADADF7BB256C924BB8B92CE40620CED94BBDEF352EB63090B8" title="Become An OCI AI Foundations Associate (2025)">
