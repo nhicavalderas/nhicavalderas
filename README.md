@@ -69,6 +69,14 @@ I’m eager to learn, take on challenges, and develop skills in programming, dat
 
 ###
 
+<h2 align="left">🛠️ Skill Sets</h2>
+
+- **Programming:** Java, JavaScript  
+- **Databases:** IBM DB2 Cloud  
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML  
+
+###
+
 <h2 align="left">📫 Contacts & Socials</h2>
 
 <p align="left">
