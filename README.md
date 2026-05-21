@@ -1,18 +1,17 @@
-<h1 align="left">Hi!  I'm Nhica B. Valderas</h1>
+<h1 align="left">Hi! I'm Nhica B. Valderas</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
+
+<p align="left">
+Currently an IT student pursuing a Bachelor of Science in Information Technology.  
+I’m eager to learn, take on challenges, and develop skills in programming, databases, networking, and web development.
+</p>
 
 ###
 
-<p align="left">Currently an IT student pursuing a Bachelor of Science in Information Technology. I’m eager to learn, take on challenges, and develop skills in programming, databases, networking, and web development.</p>
-
-###
-
-<h2 align="left">My  Education</h2>
-
-###
+<h2 align="left">🎓 My Education</h2>
 
 <p align="left">
   <a href="https://neu.edu.ph/main/" title="New Era University">New Era University</a><br>
@@ -22,9 +21,7 @@
 
 ###
 
-<h2 align="left">My Certifications</h2>
-
-###
+<h2 align="left">📜 My Certifications</h2>
 
 <p align="left">
   <a href="https://courses.cognitiveclass.ai/certificates/35a161add40844818b5598aec0683064#" title="SQL and Relational Databases 101">
@@ -32,7 +29,12 @@
   </a> 
 </p>
 <p align="left">
-  <a href= "https://catalog-education.oracle.com/pls/certview/sharebadge?id=920C4F7AE15296D16E1356B329D58F5772979F80E1AE0074FCC3D939EC131468" title="Become An OCI Foundations Associate (2025)">
+  <a href="https://courses.cognitiveclass.ai/certificates/095d3386efaa4abdae0eceff60196fcf" title="NoSQL and DBaaS 101">
+    NoSQL and DBaaS 101
+  </a>
+</p>
+<p align="left">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=920C4F7AE15296D16E1356B329D58F5772979F80E1AE0074FCC3D939EC131468" title="Become An OCI Foundations Associate (2025)">
     Become An OCI Foundations Associate (2025)
   </a>
 </p>
@@ -41,7 +43,6 @@
     Become an Oracle Data Platform Foundations Associate
   </a>
 </p>
-
 <p align="left">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0B516B5B1492D6ADADF7BB256C924BB8B92CE40620CED94BBDEF352EB63090B8" title="Become An OCI AI Foundations Associate (2025)">
     Become An OCI AI Foundations Associate (2025)
@@ -50,32 +51,36 @@
 
 ###
 
-<h2 align="left">My Programming Languages</h2>
-
-###
+<h2 align="left">💻 My Programming Languages</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
 ###
 
-<h2 align="left">My Socials</h2>
+<h2 align="left">📫 Contacts & Socials</h2>
 
-###
+<p align="left">
+📧 Email: <a href="mailto:nhicavalderas@gmail.com">nhicavalderas@gmail.com</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/nhica-valderas-6bb0bb408">linkedin.com/in/nhica-valderas-6bb0bb408</a><br>
+📸 Instagram: <a href="https://www.instagram.com/nhixi_xixy?igsh=MWFkeDdpcmQ0MDA3dA==">instagram.com/nhixi_xixy</a><br>
+📘 Facebook: <a href="https://www.facebook.com/Nhixixy">facebook.com/Nhixixy</a><br>
+✈️ Telegram: <a href="https://t.me/Nhixixy">t.me/Nhixixy</a>
+</p>
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:nhicavalderas@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/nhixi_xixy?igsh=MWFkeDdpcmQ0MDA3dA==" target="_blank">
@@ -87,6 +92,7 @@
   <a href="https://t.me/Nhixixy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
+  <a href="https://www.linkedin.com/in/nhica-valderas-6bb0bb408" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
 </div>
-
-###
